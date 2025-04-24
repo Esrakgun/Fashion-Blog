@@ -46,7 +46,7 @@ Projemin teknik yapılandırmasını ve kullanılan bağımlılıkları paylaş�
 # Proje Özeti:
 Bu blog sitesi, React ile geliştirildi 
 # İletişim:
-•	GitHub: https://github.com/Esrakgun/Fashion-Blog
+
 E-mail: akgundogduers@gmail.com
 •	✨ Şimdi, stilinize ilham verecek yazılarımı keşfetmek için hemen göz atın! Şıklığınızı bir adım ileri taşıyacak detaylarla dolu, neşeli bir yolculuğa çıkalım! ✨
 # Ekran Görüntüsü:
